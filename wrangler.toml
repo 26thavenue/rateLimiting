@@ -1,0 +1,22 @@
+name = "ratelimiting"
+compatibility_date = "2023-12-01"
+
+[vars]
+UPSTASH_REDIS_URL = "https://us1-dynamic-dove-42620.upstash.io"
+UPSTASH_REDIS_TOKEN = "AaZ8ASQgOGIyZDkxNzctYTc1MS00ZGM1LTg4OTItOWY4NzdmOGI5M2M3ODUxMzA3ZmNmYTNkNGVjYzhiNGE1YzYzZmNlZGE0MjA="
+
+# [[kv_namespaces]]
+# binding = "MY_KV_NAMESPACE"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "my-database"
+# database_id = ""
+
+# [ai]
+# binding = "AI"

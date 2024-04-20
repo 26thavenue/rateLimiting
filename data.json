@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "20240415",
+      "date": "2024-04-15",
+      "mood": "Happy",
+      "notes": "Had a great day with friends"
+    },
+    {
+      "id": "20240416",
+      "date": "2024-04-16",
+      "mood": "Content",
+      "notes": "Enjoyed a relaxing day at home"
+    },
+    {
+      "id": "20240417",
+      "date": "2024-04-17",
+      "mood": "Stressed",
+      "notes": "Dealing with work deadlines"
+    },
+    {
+      "id": "20240418",
+      "date": "2024-04-18",
+      "mood": "Excited",
+      "notes": "Looking forward to a weekend getaway"
+    },
+    {
+      "id": "20240419",
+      "date": "2024-04-19",
+      "mood": "Anxious",
+      "notes": "Feeling nervous about upcoming presentation"
+    }
+  ]
+}
